@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Shafiee, a Computer Science and Engineering student, specialising in IoT.
+- 👋 Hi there, I’m Shafii, a Computer Science and Engineering student, specialising in IoT.
 i'm  Passionate about Mechanics and electronics (Mechatronics).
 Please do feel free to interract with projects and give valuable feedbacks for improvement
 
