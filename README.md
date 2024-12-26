@@ -4,11 +4,9 @@
 I'm a Computer Science and Engineering student with a passion for the **Internet of Things (IoT)** and **Embedded Systems**. I enjoy exploring the intersections of hardware and software, and I'm always excited to take on new challenges.
 
 ## My Skills
-### Internet of Things (IoT)
+### Internet of Things (IoT) ### And Embedded Systems
 - Designing and developing smart devices.
 - Integrating IoT solutions for real-world applications.
-
-### Embedded Systems
 - Building and programming microcontroller-based projects.
 - Creating efficient and robust embedded systems.
 
@@ -44,9 +42,6 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 - [Twitter](https://x.com/Imamshafii63)
 - [Email](mailto:SNkdu01@outlook.com)
 
----
-
-**Thank you for visiting my GitHub profile!** 😊
 
 
 <!---
