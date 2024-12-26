@@ -4,7 +4,7 @@
 I'm a Computer Science and Engineering student with a passion for the **Internet of Things (IoT)** and **Embedded Systems**. I enjoy exploring the intersections of hardware and software, and I'm always excited to take on new challenges.
 
 ## My Skills
-### Internet of Things (IoT) ### And Embedded Systems
+### Internet of Things (IoT) And Embedded Systems
 - Designing and developing smart devices.
 - Integrating IoT solutions for real-world applications.
 - Building and programming microcontroller-based projects.
