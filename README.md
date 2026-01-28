@@ -1,50 +1,67 @@
-# Hi there! 👋
+# Hi there, I'm Shafii Ndana-Kudu 👋
+
+> Crafting reliable, maintainable software and building delightful developer experiences.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;Open+Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
+
+---
+
+<!-- Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/Shafiee10?label=Follow&style=social)](https://github.com/Shafiee10)
+[![Top Langs](https://img.shields.io/github/languages/top/Shafiee10?logo=github&style=flat)](https://github.com/Shafiee10)
+
+
+---
 
 ## About Me
-I'm a Computer Science and Engineering student with a passion for the **Internet of Things (IoT)** and **Embedded Systems**. I enjoy exploring the intersections of hardware and software, and I'm always excited to take on new challenges.
+I'm a software engineer who enjoys turning ideas into robust, user-friendly products. I care deeply about clean architecture, great developer DX, and shipping value quickly. I love learning new tools and contributing to open source.
 
-## My Skills
-### Internet of Things (IoT) And Embedded Systems
-- Designing and developing smart devices.
-- Integrating IoT solutions for real-world applications.
-- Building and programming microcontroller-based projects.
-- Creating efficient and robust embedded systems.
+- 🔭 I’m currently working on: building scalable services and improving developer workflows
+- 🌱 I’m learning: advanced testing strategies, observability, and performant distributed systems
+- 👯 I’m looking to collaborate on: developer tooling, open-source libraries, and backend systems
+- ⚡ Fun fact: I enjoy turning complex problems into simple, testable solutions
 
-### Robotic Process Automation (RPA)
-- Proficient in UiPath, Automation Anywhere, and Blue Prism.
-- Automating repetitive tasks to improve efficiency.
+---
 
-### Game Development
-- Developing engaging games using Unity and C#.
-- Creating immersive gaming experiences.
+## What I Do
+- Backend systems: design and implement scalable, reliable APIs and microservices
+- Frontend: create accessible, performant user interfaces
+- DevOps & CI/CD: automate build/test/deploy pipelines and monitoring
+- Open Source: maintain and contribute to libraries and developer tooling
 
-### Web Development
-- Building user-friendly websites with HTML, CSS, and JavaScript.
-- Focusing on responsive design and accessibility.
+---
 
-### Programming Languages
-- **C#**
-- **C++**
-- **JavaScript**
-- **Python**
+## Tech & Tools
+- Languages: JavaScript / TypeScript, Python, Go, SQL
+- Frameworks: Node.js, Express, React, Next.js
+- Databases: PostgreSQL, Redis
+- Cloud & Infra: AWS (Lambda, ECS), Docker, Terraform
+- Testing & CI: Jest, pytest, GitHub Actions
 
-## Projects
-Here are some of the projects I've been working on:
-- **IoT Projects**: Building smart home devices and other connected solutions.
-- **Embedded Systems**: Creating innovative hardware-software integrated projects.
-- **RPA Projects**: Automating various business processes using leading RPA tools.
-- **Game Development**: Crafting fun and interactive games.
-- **Web Development**: Designing and developing functional websites.
+---
 
-## Let's Connect!
-I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following platforms:
-- [LinkedIn](https://www.linkedin.com/in/shafii-nk/)
-- [Twitter](https://x.com/Imamshafii63)
-- [Email](mailto:SNkdu01@outlook.com)
+ 
+---
 
+ 
+## Get in Touch
+- Email: shafiindanakudu@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/shafii-nk/)
 
+---
 
-<!---
-Shafiee10/Shafiee10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## GitHub Stats
+
+<p float="left">
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Shafiee10&show_icons=true&theme=tokyonight" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiee10&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 Want to collaborate?
+I'm open to new opportunities and collaborations — whether it's mentoring, contributing to open-source, or joining a team that values craftsmanship. Send me a message or open an issue on one of my repos.
+
+---
+
+Thanks for visiting — let's build something great together! 🚀
