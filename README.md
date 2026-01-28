@@ -48,7 +48,7 @@ I'm a software engineer who enjoys turning ideas into robust, user-friendly prod
 - Email: shafiindanakudu@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/shafii-nk/)
 
----
+ 
 
 ## GitHub Stats
 
@@ -57,7 +57,7 @@ I'm a software engineer who enjoys turning ideas into robust, user-friendly prod
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiee10&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 ## 💬 Want to collaborate?
 I'm open to new opportunities and collaborations — whether it's mentoring, contributing to open-source, or joining a team that values craftsmanship. Send me a message or open an issue on one of my repos.
